@@ -1,0 +1,33 @@
+/* 全局样式 */
+html, body ,#app{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    /* 身体长度可以解决挤压问题 */
+    min-width: 1366px;
+}
+/* 改变卡片区样式 不是HTML元素要加点*/
+ .el-breadcrumb{
+    margin-bottom: 15px;
+    font-size: 12px;
+ }
+ .el-card{
+     /* 覆盖原样式 */
+     box-shadow: 0 1px 1px rgb(0, 0, 0.15) !important;
+ }
+ .el-table{
+     margin-top: 15px;
+     font-size: 12px;
+ }
+ .el-pagination{
+     margin-top: 15px;
+ }
+ /* 分类选择框的高度menu是框的高度 */
+ /* 最新版不需要这个 */
+ /* .el-cascader-menu{
+     height: 300px;
+ } */
+ /* 富文本编辑框高度 */
+ .ql-editor{
+     min-height: 300px;
+ }
