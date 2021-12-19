@@ -2,7 +2,7 @@
 
 ### 1使用方法
 
-1.下载  https://gitee.com/gong-jirong/news-manger.git
+1.下载代码
 
 2.安装依赖
 
@@ -37,7 +37,7 @@ npm run dev
 
 我把后台接口文档写好了，不需要会后端，只需要按照接口，添加参数即可
 
-后端代码  https://gitee.com/gong-jirong/news-service.git
+后端代码  https://github.com/workinggirlkill/news-service.git
 
 Vue
 
