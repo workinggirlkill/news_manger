@@ -13,7 +13,7 @@ npm install或者cnpm install
 3.启动项目
 
 ```js
-npm run dev 
+npm run serve
 控制台输入vue ui进入可视化面板运行项目
 ```
 
