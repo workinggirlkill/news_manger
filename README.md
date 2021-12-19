@@ -37,6 +37,8 @@ npm run dev
 
 我把后台接口文档写好了，不需要会后端，只需要按照接口，添加参数即可
 
+后端代码  https://gitee.com/gong-jirong/news-service.git
+
 Vue
 
 插槽的使用
