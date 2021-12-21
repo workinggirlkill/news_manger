@@ -18,7 +18,7 @@ npm run serve
 ```
 
 ### 2项目概述
-项目预览 news.gjrong.cn
+项目预览
 
 1.登录方面
 
